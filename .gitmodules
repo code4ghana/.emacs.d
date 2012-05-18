@@ -1,0 +1,6 @@
+[submodule "yasnippet"]
+	path = yasnippet
+	url = https://github.com/capitaomorte/yasnippet.git
+[submodule "lintnode"]
+	path = lintnode
+	url = https://github.com/davidmiller/lintnode

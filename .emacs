@@ -83,7 +83,7 @@
 
 
 ;;django modifications
-(add-to-list 'load-path "~/.emacs.d/pony-mode")
+(add-to-list 'load-path "~/.emacs.d/pony-mode/src")
 (require 'pony-mode)
 
 ;tags highlighting
@@ -126,3 +126,10 @@
 ;;	            (lambda ()
 ;;		                  (lintnode-hook)))
 ;;javascript stuff --------------------------
+;; Beginning of the el4r block:
+;; RCtool generated this block automatically. DO NOT MODIFY this block!
+(add-to-list 'load-path "/home/kwadwo/.rvm/rubies/ruby-1.9.3-p286/share/emacs/site-lisp")
+(require 'el4r)
+(el4r-boot)
+;; End of the el4r block.
+;; User-setting area is below this line.

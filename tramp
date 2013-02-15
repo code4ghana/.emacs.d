@@ -22,4 +22,6 @@
   ("remote-decoding" "base64 -d -i")
   ("inline-compress" "gzip")
   ("inline-decompress" "gzip -d")
-  ("~" "/home/admin")))
+  ("~" "/home/admin"))
+ (["scpc" nil "ssh" nil]
+  nil))
